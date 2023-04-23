@@ -55,7 +55,7 @@
  <li>Create a database name (pro_usermanagent)</li>
  <li>Import database file (pro_usermanagent.sql)</li>
  <li>Admin:Info</li>
- <li>Admin username: nababurdev@gmail.com</li>
+ <li>Admin username: nababurbd@gmail.com</li>
  <li>Admin pass: An123456</li>
  <li><a href='https://youtu.be/Q-JQsoDwxgI'>Live video a Youtube</a></li>
  
